@@ -1,0 +1,28 @@
+{
+    "sites": [
+        {
+            "key": "影视工厂",
+            "name": "影视工厂",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "active": true
+        },
+        {
+            "key": "非凡影视",
+            "name": "非凡影视",
+            "api": "http://ffzy5.tv/api.php/provide/vod/",
+            "active": true
+        }
+        {
+            "key": "如意资源",
+            "name": "如意资源",
+            "api": "http://cj.rycjapi.com/api.php/provide/vod/",
+            "active": true
+        },
+        {
+            "key": "电影天堂资源",
+            "name": "电影天堂资源",
+            "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
+            "active": true
+        }
+    ]
+}
